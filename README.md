@@ -35,3 +35,5 @@ FEATURES
 ->HOW TO RUN
  pip install streamlit matplotlib
  streamlit run app.py
+
+ 
