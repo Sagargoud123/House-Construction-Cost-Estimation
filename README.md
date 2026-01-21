@@ -12,22 +12,26 @@ FEATURES
    Steel
 * Labor cost calculation based on efficiency
 * Cost distribution visualization (Material vs Labour)
-INPUTS CONSDEIRED
+
+->INPUTS CONSDEIRED
  Land area (sq.ft)
  Number of floors & rooms
  Number of labourers
  Labour cost per day
  Work efficiency (sq.ft/day/labour)
  Cement, bricks, and steel rates
-OUTPUT GENERATED
+
+->OUTPUT GENERATED
  Estimated Total Construction Cost
  Estimated Completion Time (days)
  Material quantities required
  Pie chart showing cost breakdown
-TECH STACK
+
+->TECH STACK
  Python
  Streamlit
  Matplotlib
-HOW TO RUN
+
+->HOW TO RUN
  pip install streamlit matplotlib
  streamlit run app.py
