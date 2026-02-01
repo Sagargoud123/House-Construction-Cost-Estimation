@@ -39,7 +39,7 @@ FEATURES
  -> Project Screenshot 
 
  *Input page 
- [input](images/input.png)
+ 
  
 
 
