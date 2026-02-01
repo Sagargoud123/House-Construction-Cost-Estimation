@@ -44,3 +44,5 @@ FEATURES
  *Output Page
  <img width="984" height="549" alt="output" src="https://github.com/user-attachments/assets/ecf717e3-e0a7-400b-88b4-f3c3c8746822" />
 
+ *Piechart Page
+ <img width="1080" height="936" alt="piechart" src="https://github.com/user-attachments/assets/f79e4a69-b25d-497a-89ae-c1dd1338a449" />
