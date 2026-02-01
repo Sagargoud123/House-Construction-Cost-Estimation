@@ -39,9 +39,7 @@ FEATURES
  -> Project Screenshot 
 
  *Input page 
-  
- 
- 
+ <img width="1810" height="909" alt="input" src="https://github.com/user-attachments/assets/ea77ecf8-69c7-4699-ab22-14741364f228" />
 
 
 
