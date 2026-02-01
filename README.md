@@ -41,6 +41,6 @@ FEATURES
  *Input page 
  <img width="1810" height="909" alt="input" src="https://github.com/user-attachments/assets/ea77ecf8-69c7-4699-ab22-14741364f228" />
 
+ *Output Page
+ <img width="984" height="549" alt="output" src="https://github.com/user-attachments/assets/ecf717e3-e0a7-400b-88b4-f3c3c8746822" />
 
-
- 
