@@ -36,4 +36,12 @@ FEATURES
  pip install streamlit matplotlib
  streamlit run app.py
 
+ -> Project Screenshot 
+
+ *Input page 
+ [input](images/input.png)
+ 
+
+
+
  
